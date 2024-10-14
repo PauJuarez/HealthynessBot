@@ -1,0 +1,62 @@
+{
+    "programador": [
+        "Levántate cada hora y estírate para evitar la tensión muscular.",
+        "Descansa tus ojos mirando a lo lejos cada 20 minutos para reducir la fatiga visual.",
+        "Mantén tu espacio de trabajo organizado para mejorar la concentración.",
+        "Usa un teclado y ratón ergonómicos para prevenir problemas en las muñecas.",
+        "Tómate pausas cortas cada dos horas para mantenerte productivo a largo plazo.",
+        "Aprende a priorizar tareas para gestionar el tiempo de manera eficiente.",
+        "Recuerda actualizar tus conocimientos constantemente, la tecnología evoluciona rápido.",
+        "Desactiva las notificaciones innecesarias para evitar distracciones.",
+        "Asegúrate de hacer copias de seguridad de tu código regularmente.",
+        "Usa un reposapiés o ajusta tu silla para mejorar la postura mientras trabajas."
+    ],
+    "diseñador": [
+        "Mantén una buena postura para evitar problemas de espalda a largo plazo.",
+        "Tómate pausas regulares para mantener tu creatividad fluyendo.",
+        "Hidrátate para evitar la fatiga mental y física.",
+        "Haz bocetos a mano de vez en cuando para mantenerte en contacto con tus habilidades tradicionales.",
+        "Organiza tus archivos y carpetas para que todo sea fácil de encontrar.",
+        "Aprende a gestionar el feedback, es clave para mejorar tus diseños.",
+        "Desconecta de las pantallas ocasionalmente para evitar la fatiga ocular.",
+        "Escucha música suave mientras trabajas para mantenerte concentrado.",
+        "Investiga constantemente nuevas tendencias y técnicas en diseño.",
+        "Colabora con otros profesionales para nutrirte de nuevas ideas y perspectivas."
+    ],
+    "doctor": [
+        "Haz descansos breves entre consultas para evitar el agotamiento.",
+        "Mantén tus manos bien hidratadas si las lavas frecuentemente.",
+        "Asegúrate de comer de manera equilibrada para mantener tu energía.",
+        "Mantente actualizado sobre los avances médicos y nuevas investigaciones.",
+        "Escucha a los pacientes con atención, la empatía es tan importante como el diagnóstico.",
+        "Equilibra tu vida profesional con tu bienestar personal.",
+        "Participa en grupos de apoyo o discusión entre colegas para compartir experiencias.",
+        "Gestiona tu tiempo para evitar el agotamiento por sobrecarga de trabajo.",
+        "Haz ejercicio físico regularmente para contrarrestar el estrés de la profesión.",
+        "Sé consciente de tus límites y pide ayuda cuando la necesites."
+    ],
+    "profesor": [
+        "Practica ejercicios de respiración para mantener la calma antes de clases difíciles.",
+        "Mantén descansos entre clases para refrescar tu mente y energías.",
+        "Cuidado con la postura al sentarte o estar de pie durante largas horas.",
+        "Escucha activamente a tus alumnos, la enseñanza es más efectiva cuando hay un diálogo.",
+        "Planifica tus clases con antelación para evitar la sobrecarga de trabajo.",
+        "Adapta tu estilo de enseñanza a las necesidades de los diferentes estudiantes.",
+        "Mantén tu curiosidad por aprender cosas nuevas, incluso fuera de tu área de enseñanza.",
+        "Fomenta un ambiente inclusivo y participativo en el aula.",
+        "Mantén una comunicación clara y abierta con los padres de los alumnos.",
+        "Reflexiona sobre cada día de trabajo, siempre hay algo que mejorar."
+    ],
+    "ingeniero": [
+        "Estira tus manos y muñecas regularmente si trabajas con herramientas o en un ordenador.",
+        "Usa siempre el equipo de protección adecuado para evitar accidentes.",
+        "Haz pausas regulares para evitar la fatiga mental y física.",
+        "Sigue los procedimientos de seguridad al pie de la letra.",
+        "Mantén un enfoque detallado en cada proyecto para evitar errores.",
+        "Comunica claramente tus ideas y proyectos a colegas y clientes.",
+        "Mantente actualizado en cuanto a las nuevas tecnologías y herramientas del sector.",
+        "Organiza bien tu tiempo y tareas para cumplir con los plazos.",
+        "Desarrolla habilidades de trabajo en equipo, ya que la ingeniería es una disciplina colaborativa.",
+        "Nunca dejes de aprender y mejorar tus habilidades técnicas."
+    ]
+}
